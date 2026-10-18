@@ -82,11 +82,11 @@ Because the available reporting periods differed between the drugs, **2018–202
 
 ### Safety & Adverse-Event Reporting Patterns
 
-![Safety Reporting Dashboard](Visualization/dashboard_1_safety_reporting_patterns.png)
+![Safety Reporting Dashboard](Visualization\dashboard_1_safety_reporting_patterns.jpg)
 
 ### Demographic Profile of FAERS Reports
 
-![Demographic Dashboard](Visualization/dashboard_2_demographic_profile.png)
+![Demographic Dashboard](Visualization\dashboard_2_demographic_profile.jpg)
 
 ## Interpretation
 
@@ -145,7 +145,7 @@ GLP1_FAERS_Case_Study/
 
 The complete methodology, analytical results, dashboards, interpretation, and recommendations are available here:
 
-[View the complete case study (PDF)](Documentation/GLP1_FAERS_Case_Study.pdf)
+[View the complete case study (PDF)](Documentation\GLP1_FAERS_Case_Study.pdf)
 
 ## Data Attribution
 
