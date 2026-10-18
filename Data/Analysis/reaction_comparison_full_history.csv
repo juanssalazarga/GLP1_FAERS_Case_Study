@@ -1,0 +1,17 @@
+generic_name,reaction,reports_with_reaction,total_reports,report_pct
+liraglutide,Constipation,352,9978,3.5277610743636
+semaglutide,Constipation,685,14956,4.58010163145226
+liraglutide,Decreased appetite,347,9978,3.477650831830026
+semaglutide,Decreased appetite,750,14956,5.014709815458679
+liraglutide,Diarrhoea,585,9978,5.8628983764281415
+semaglutide,Diarrhoea,1160,14956,7.75608451457609
+liraglutide,Nausea,1594,9978,15.975145319703346
+semaglutide,Nausea,2466,14956,16.488365873228137
+liraglutide,Off label use,369,9978,3.698135898977751
+semaglutide,Off label use,873,14956,5.837122225193902
+liraglutide,Pancreatitis,717,9978,7.185808779314491
+semaglutide,Pancreatitis,415,14956,2.7748060978871356
+liraglutide,Vomiting,768,9978,7.696933253156946
+semaglutide,Vomiting,1452,14956,9.708478202728003
+liraglutide,Weight decreased,225,9978,2.254960914010824
+semaglutide,Weight decreased,702,14956,4.693768387269323

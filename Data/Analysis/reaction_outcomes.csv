@@ -1,0 +1,13 @@
+generic_name,reaction_outcome,reports,report_pct
+liraglutide,Fatal,335,2.7231344496829784
+liraglutide,Not recovered/not resolved,2670,21.7037880019509
+liraglutide,Recovered/resolved,3211,26.10144691920013
+liraglutide,Recovered/resolved with sequelae,32,0.26012030564135913
+liraglutide,Recovering/resolving,620,5.039830921801333
+liraglutide,Unknown,5434,44.171679401723296
+semaglutide,Fatal,191,0.9676275393890268
+semaglutide,Not recovered/not resolved,4543,23.01535032169816
+semaglutide,Recovered/resolved,4895,24.798622017326107
+semaglutide,Recovered/resolved with sequelae,61,0.30903287907188814
+semaglutide,Recovering/resolving,1246,6.3123765135011904
+semaglutide,Unknown,8803,44.59699072901363
